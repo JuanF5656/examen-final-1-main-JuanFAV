@@ -1,4 +1,4 @@
-# DragonDex - Examen Final
+# DragonDex - Examen Final - Juan Felipe Atehortua Vergara
 
 Catálogo de dragones usando PokéAPI.
 
